@@ -1,0 +1,4 @@
+inheritanceclassactivity.Employee
+inheritanceclassactivity.Manager
+inheritanceclassactivity.Developer
+inheritanceclassactivity.Manager$Developer
